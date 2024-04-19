@@ -14,7 +14,7 @@ Ce site a été fait avec :
 * Chirpy starter and theme
 
 C'était étonnament simple à faire :).
-Si tu veux faire le tien, utilise ces sites:
+Si vous voulez faire le vôtre, utilisez ces sites:
 
 ```javascript
 https://github.com/cotes2020/chirpy-starter
