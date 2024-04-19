@@ -14,7 +14,7 @@ This was made with :
 * Chirpy starter and theme
 
 This was surprisingly easy to make :).
-If you want to make your own, use these sites 
+If you want to make your own, use these sites:
 
 ```javascript
 https://github.com/cotes2020/chirpy-starter
@@ -25,9 +25,11 @@ https://heckintechin.tech/posts/GitHub-Pages-Jekyll/
 ```
 
 And also vs code :
+```javascript
 https://code.visualstudio.com/
-
+```
 If you're on linux and want the flatpak version, here it is:
+```javascript
 https://flathub.org/apps/com.visualstudio.code
-
+```
 Thanks for seeing my website !
