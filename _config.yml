@@ -74,9 +74,9 @@ theme_mode: dark
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: https://raw.githubusercontent.com/deadly-carp/deadly-carp.github.io/main/images/
+img_cdn: https://raw.githubusercontent.com/deadly-carp/deadly-carp.github.io/main/images/TT1s1nPFP2023-.png
 # the avatar on sidebar, support local or CORS resources
-avatar: https://raw.githubusercontent.com/deadly-carp/deadly-carp.github.io/main/images/
+avatar: https://raw.githubusercontent.com/deadly-carp/deadly-carp.github.io/main/images/TT1s1nPFP2023-.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
