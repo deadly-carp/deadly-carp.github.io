@@ -28,8 +28,8 @@ url: "https://deadly-carp.github.io"
 github:
   username: deadly-carp # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+#twitter:
+ # username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,10 +38,10 @@ social:
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    # https://twitter.com/username # change to your twitter homepage
     - https://github.com/deadly-carp # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.youtube.com/@deadly_carp
     # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
@@ -75,7 +75,7 @@ theme_mode: dark
 # e.g. 'https://cdn.com'
 img_cdn: 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://raw.githubusercontent.com/deadly-carp/deadly-carp.github.io/main/images/TT1s1nPFP2023-.png"
+avatar: "https://raw.githubusercontent.com/deadly-carp/deadly-carp.github.io/main/images/Deadly_Carpv2GLARE2024under4mb.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
