@@ -5,6 +5,9 @@ categories: [test, website]
 tags: [welcome]
 comments: true
 ---
+{{ content }}
+
+{% include disqus.html %}
 
 # Salut :)
 ## Bienvenue à mon site Web !
