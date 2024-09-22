@@ -35,4 +35,4 @@ https://flathub.org/apps/com.visualstudio.code
 ```
 Thanks for seeing my website !
 
-{% include comments.html %}
+{% include _layouts/comments.html %}
