@@ -5,9 +5,6 @@ categories: [test, website]
 tags: [welcome]
 comments: true
 ---
-{{ content }}
-
-{% include disqus.html %}
 
 # Hello :)
 ## Welcome to my website !
@@ -37,3 +34,5 @@ If you're on linux and want the flatpak version, here it is:
 https://flathub.org/apps/com.visualstudio.code
 ```
 Thanks for seeing my website !
+
+{% include comments.html %}
