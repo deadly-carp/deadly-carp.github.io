@@ -4,7 +4,6 @@ layout: page
 icon: fas fa-camera-retro
 order: 5
 ---
-
 <object type="image/jpg" data="/docs/assets/images/0001.jpg" width="100%" height="1080px" overflow="auto" ></object>
 
 <object type="image/jpg" data="/docs/assets/images/0007.jpg" width="100%" height="1440px" overflow="auto" ></object>
