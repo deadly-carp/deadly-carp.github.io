@@ -1,6 +1,6 @@
 ﻿---
 title: portfolio
-layout: pages
+layout: page
 icon: fas fa-camera-retro
-order: 4
+order: 5
 ---
