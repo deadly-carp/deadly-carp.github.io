@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 # Just a website where i talk about stuff :)
  My youtube channel (it's more in french btw) :
