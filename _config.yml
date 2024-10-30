@@ -87,22 +87,20 @@ toc: true
 comments:
   active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
-  disqus:
-    shortname: deadly-carp
   # utterances settings › https://utteranc.es/
   # utterances:
   #  repo: # <gh-username>/<repo>
   #  issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
- # giscus:
-   # repo: # <gh-username>/<repo>
-    #repo_id:
-    #category:
-    #category_id:
-    #mapping: # optional, default to 'pathname'
-    #input_position: # optional, default to 'bottom'
-    #lang: # optional, default to the value of `site.lang`
-    #reactions_enabled: # optional, default to the value of `1`
+    giscus:
+    repo: deadly-carp/deadly-carp.github.io 
+    repo_id: R_kgDOLwc5Vg
+    category: General
+    category_id: DIC_kwDOLwc5Vs4Cj1TZ
+    mapping: pathname 
+    input_position: bottom  
+    reactions_enabled: 1 
+
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
