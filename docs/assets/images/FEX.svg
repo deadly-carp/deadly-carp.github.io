@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 837.44 225.86"
+   version="1.1"
+   sodipodi:docname="FEX.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="0.85"
+     inkscape:cx="418.82353"
+     inkscape:cy="112.94118"
+     inkscape:window-width="1295"
+     inkscape:window-height="761"
+     inkscape:window-x="83"
+     inkscape:window-y="163"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #000;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <rect
+     style="fill:#f9f452;stroke:none;stroke-width:4.0252;stroke-opacity:1;fill-opacity:1"
+     id="rect7"
+     width="842.44604"
+     height="232.3741"
+     x="-2.1582735"
+     y="-2.1582735" />
+  <polygon
+     class="cls-1"
+     points="809.57 199.35 776.6 225.74 690.95 225.74 671.73 200.14 561.19 52.89 523.55 52.89 536.71 .12 596.21 .12 653.07 75.87 681.08 113.18 725.96 172.97 789.75 172.97 809.57 199.35"
+     id="polygon1" />
+  <polygon
+     class="cls-1"
+     points="622.95 159.71 606.38 172.97 540.46 225.74 480.46 225.74 493.61 172.97 531.76 172.97 594.94 122.4 622.95 159.71"
+     id="polygon2" />
+  <polygon
+     class="cls-1"
+     points="837.44 26.5 804.48 52.89 756.4 52.89 690.25 105.84 662.24 68.53 746.36 1.2 747.71 .12 817.64 .12 837.44 26.5"
+     id="polygon3" />
+  <polygon
+     class="cls-1"
+     points="747.71 .12 746.36 1.2 746.63 .12 747.71 .12"
+     id="polygon4" />
+  <polygon
+     class="cls-1"
+     points="302.48 52.77 315.64 0 76.12 0 43.16 26.39 62.96 52.77 134.06 52.77 125.61 86.66 54.51 86.66 21.55 113.05 41.36 139.44 112.45 139.44 104.06 173.09 32.96 173.09 0 199.48 19.81 225.86 192.84 225.86 225.81 199.48 206 173.09 156.06 173.09 164.45 139.44 280.87 139.44 294.03 86.66 177.61 86.66 186.06 52.77 302.48 52.77"
+     id="polygon5" />
+  <polygon
+     class="cls-1"
+     points="359.07 139.17 350.51 173.28 471.29 173.28 458.14 225.74 278.75 225.74 335.33 .12 514.72 .12 501.56 52.59 380.78 52.59 372.23 86.7 537.18 86.7 556.99 112.93 524.02 139.17 359.07 139.17"
+     id="polygon6" />
+  <polygon
+     class="cls-1"
+     points="746.61 91.68 705.9 124.26 718.06 140.44 784.37 140.44 804.39 114.27 793.27 91.68 746.61 91.68"
+     id="polygon7" />
+</svg>
