@@ -14,7 +14,7 @@ It's a song on the internet that's also called The Most Mysterious Song (of the 
 It's classified as a Lost Media and Lost Wave. 
 Now we know that it's actually called "Subways of Your Mind" and that it was made by the german band *FEX*.
 
-![Logo of the german band FEX](https://raw.githubusercontent.com/deadly-carp/deadly-carp.github.io/blob/main/docs/assets/images/FEX.png)
+![Logo of the german band FEX](https://raw.githubusercontent.com/deadly-carp/deadly-carp.github.io/refs/heads/main/docs/assets/images/FEX.png)
 
 ### The search.
 It's a song that was actively trying to be found by the TMMS & Lost Wave community on the internet for 17 years.
