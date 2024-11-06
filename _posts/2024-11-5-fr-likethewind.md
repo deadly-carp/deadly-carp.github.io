@@ -14,7 +14,7 @@ C'est une chanson sur internet qui est aussi appelée la chanson la plus mystér
 Elle est classifiée comme un Lost Media et de la Lost Wave. 
 Maintenant nous savons qu'elle est appelée "Subways of Your Mind" et qu'elle a été faite par la band allemande *FEX*.
 
-![Logo de la bande allemande FEX](https://raw.githubusercontent.com/deadly-carp/deadly-carp.github.io/main/docs/assets/images/FEX.png)
+![Logo de la bande allemande FEX](https://raw.githubusercontent.com/deadly-carp/deadly-carp.github.io/tree/main/docs/assets/images/FEX.png)
 
 ### La recherche.
 C'est une chanson qui était en train d'être cherchée activement par les communautés TMMS & Lost Wave sur internet depuis maintenant 17 ans.
