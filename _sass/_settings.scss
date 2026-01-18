@@ -1,0 +1,38 @@
+// Background colours
+$backgroundColour: #1e1e1e !default;
+$codeBackgroundColour: #3c3c3c !default;
+$featureBackgroundColour: #757575 !default;
+$accentColour: #095785 !default;
+
+// Text colours
+$headingColour: #213074 !default;
+$bodyColour: #7c92c2 !default;
+$linkColour: #273aa7 !default;
+$hoverColour: #1c3782 !default;
+$focusColour: #435ffa !default; 
+$captionColour: #797f8b !default;
+$white: #ffffff !default;
+
+// Typography
+$bodytype: (
+  font-family: "Georgia, serif",
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+$headingtype: (
+  font-family: '"Merriweather", serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+$monospacetype: (
+  font-family: "Menlo, monospace",
+  regular: 400,
+  cap-height: 0.68
+) !default;
+
+// TIP: Load custom fonts in _config.yaml
