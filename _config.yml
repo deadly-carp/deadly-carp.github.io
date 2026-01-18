@@ -27,6 +27,7 @@ title: "Carp's website"
 description: 'A test website'
 permalink: pretty
 logo: "/assets/favicon.ico"
+timezone: Europe/Zurich
 
 # Pagination
 paginate: 5
